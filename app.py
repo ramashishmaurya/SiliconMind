@@ -98,3 +98,5 @@ if st.button("Poochho!"):
         # Answer dikhao
         st.success("Jawab:")
         st.write(answer)
+
+# there are things need to updates right 

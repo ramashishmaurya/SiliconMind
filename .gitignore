@@ -1,5 +1,2 @@
-/chipvenv
-.chipvenv
-
-/__pycache 
-.__pycache
+/myapp 
+__pycache
