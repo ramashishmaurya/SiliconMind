@@ -8,7 +8,7 @@ name = st.text_input('Enter the name')
 age = st.text_input('Enter the values age')
 
 if st.button('click'):
-    url = 'http://127.0.0.1:8000/api' # this  is api that we made 
+    url = 'http://127.0.0.1:8000/api'   
 
     data = {
         "name":name , 
